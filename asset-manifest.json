@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jasonTelanoff/fortress-test.git/static/css/main.54d5fcce.css",
+    "main.js": "/jasonTelanoff/fortress-test.git/static/js/main.64c5d471.js",
+    "static/js/488.96434100.chunk.js": "/jasonTelanoff/fortress-test.git/static/js/488.96434100.chunk.js",
+    "index.html": "/jasonTelanoff/fortress-test.git/index.html",
+    "main.54d5fcce.css.map": "/jasonTelanoff/fortress-test.git/static/css/main.54d5fcce.css.map",
+    "main.64c5d471.js.map": "/jasonTelanoff/fortress-test.git/static/js/main.64c5d471.js.map",
+    "488.96434100.chunk.js.map": "/jasonTelanoff/fortress-test.git/static/js/488.96434100.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54d5fcce.css",
+    "static/js/main.64c5d471.js"
+  ]
+}
