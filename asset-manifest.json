@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fortress-test/static/css/main.54d5fcce.css",
-    "main.js": "/fortress-test/static/js/main.03d253c1.js",
+    "main.js": "/fortress-test/static/js/main.89803f0f.js",
     "static/js/488.96434100.chunk.js": "/fortress-test/static/js/488.96434100.chunk.js",
     "index.html": "/fortress-test/index.html",
     "main.54d5fcce.css.map": "/fortress-test/static/css/main.54d5fcce.css.map",
-    "main.03d253c1.js.map": "/fortress-test/static/js/main.03d253c1.js.map",
+    "main.89803f0f.js.map": "/fortress-test/static/js/main.89803f0f.js.map",
     "488.96434100.chunk.js.map": "/fortress-test/static/js/488.96434100.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.54d5fcce.css",
-    "static/js/main.03d253c1.js"
+    "static/js/main.89803f0f.js"
   ]
 }
